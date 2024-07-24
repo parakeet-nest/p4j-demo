@@ -52,7 +52,7 @@ This project use the [Parakeet4J](https://github.com/parakeet-nest/parakeet4j) l
     <dependency>
         <groupId>org.parakeetnest.parakeet4j</groupId>
         <artifactId>parakeet4j</artifactId>
-        <version>0.0.1</version>
+        <version>0.0.2</version>
     </dependency>
 </dependencies>
 ```
